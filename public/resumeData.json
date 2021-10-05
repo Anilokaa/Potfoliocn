@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name":"Loka Anirudh",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"profilepic.png",
+    "logo":"LA.jpg",
+    "bio":"Enthusiastic individual always with an urge to learn and discover new things to feed my curiosity. Confident, self- motivated and highly analytical personality with strong interpersonal and leadership skills.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "phone": "Contact: +91 8686145383",
+    "github":"https://github.com/Anilokaa",
+    "address":{
+      "street":"Ramanthapur",
+      "city":"Hyderabad",
+      "state":"Telengana",
+      "zip": "500013"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/16VtqT7yHWr6kiwWltmH6xkRI5YyWBq1m/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/loka-anirudh-ab19a31b3/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/loka_ani/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Anilokaa",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"mail",
+        "url":"https://github.com/Anilokaa",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"SRM University",
+        "graduated":"April 2019 - Present",
+        "result":"9.45 CGPA",
+        "description":"There's more to university than just attending lectures. Student life involves juggling group work, exam revision and careers fairs with joining clubs and societies, living in university accommodation and coping with anxiety and stress. Read our advice on how to stay afloat."
+      },
+      {
+        "school":"School?",
+        "degree":"St. Joseph's High School",
+        "graduated":"March 2017",
+        "result":"8.2 CGPA",
+        "description":"The school life is the best life. A man, who has been the student, knows what school life is. The school life is the golden time period of learning. It truly impacts the life of students. The importance of school life can never be negated. The school life is important for children as well as for the grown up students alike."
+      }
+    ],
+    "work":[
+      {
+        "company":"Codemath",
+        "title":"Fullstack Web Developer",
+        "years":"Aug 2021 - Sep 2021",
+        "type":"Intern",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"IIT-Bombay (Abhyuday)",
+        "title":"Front-end Web Developer",
+        "years":"Sep 2021 - Present",
+        "type":"Intern",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"100%"
+      },
+      {
+        "name":"SCSS & CSS",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"C/C++",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Donation Page",
+        "url":"https://www.canadianwanderlust.com",
+        "image":"01.jpg"
+        
+      },
+      {
+        "title":"Codemath",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Abhyuday (Actionplan)",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Donation Page",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
